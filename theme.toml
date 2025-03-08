@@ -3,10 +3,10 @@ license = 'MIT'
 description = 'simple hugo theme -- html only'
 
 # The home page of the theme, where the source can be found
-homepage = 'https://github.com/owner/repo'
+homepage = 'https://github.com/pmafynn/clean'
 
 # If you have a running demo of the theme
-demosite = 'https://owner.github.io/repo'
+demosite = 'https://clean.fynnfr.org'
 
 # Taxonomy terms
 tags = ['blog', 'company']
@@ -14,14 +14,14 @@ features = ['some', 'awesome', 'features']
 
 # If the theme has multiple authors
 authors = [
-  {name = 'Name of author', homepage = 'Website of author'},
+  {name = 'Fynn Friedrichs', homepage = 'fynnfr.org'},
   {name = 'Name of author', homepage = 'Website of author'}
 ]
 
 # If the theme has a single author
 [author]
-  name = 'Your name'
-  homepage = 'Your website'
+  name = 'Fynn Friedrichs'
+  homepage = 'fynnfr.org'
 
 # If porting an existing theme
 [original]
